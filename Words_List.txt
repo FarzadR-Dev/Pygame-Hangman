@@ -1,0 +1,7 @@
+car
+glasses
+pencil
+hat
+calculator
+computer
+lamp

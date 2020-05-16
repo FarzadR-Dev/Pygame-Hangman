@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56122a75-594c-4e7f-8d38-479d11dd53ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bEYbV6GCEHkxopXYhoWl2rkC60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICS3UISem2/SecondLesson.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.FarzadMod3Hangman">
+    <configuration name="FarzadMod3Hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mod3-hangman-Truman98-ICS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FarzadMod3Hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SowadKPM&amp;PCA2Q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mod3-hangman-Truman98-ICS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Sowad/Stuff-for-Zad-master/Stuff-for-Zad-master/SowadKPM&amp;PCA2Q2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Sowad/Stuff-for-Zad-master/Stuff-for-Zad-master/SowadKPM&amp;PCA2Q2/SowadKPM&amp;PCA2Q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FarzadMod3Hangman" />
+        <item itemvalue="Python.SowadKPM&amp;PCA2Q2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56122a75-594c-4e7f-8d38-479d11dd53ec" name="Default Changelist" comment="" />
+      <created>1588198791187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588198791187</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created">
+      <created>1588198846000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588198846000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Background">
+      <created>1588199550992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588199550992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Background">
+      <created>1588200065141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588200065141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Background">
+      <created>1588200106216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588200106216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Setup">
+      <created>1588207369827</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588207369827</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Background Setup">
+      <created>1588270494044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588270494044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created file that stores words">
+      <created>1588274214852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588274214852</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added words to file and created answer check in main function (in progress)">
+      <created>1588298068523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588298068523</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Correct letter blit">
+      <created>1588439327822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588439327822</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added word bank support">
+      <created>1588440801402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588440801402</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added incorrect hanger function">
+      <created>1588472793930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588472793930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finalization">
+      <created>1588612727779</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588612727779</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created" />
+    <MESSAGE value="Background" />
+    <MESSAGE value="Setup" />
+    <MESSAGE value="Background Setup" />
+    <MESSAGE value="Created file that stores words" />
+    <MESSAGE value="Added words to file and created answer check in main function (in progress)" />
+    <MESSAGE value="Correct letter blit" />
+    <MESSAGE value="Added word bank support" />
+    <MESSAGE value="Added incorrect hanger function" />
+    <MESSAGE value="finalization" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalization" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588382036417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588382036417" />
+    <state x="320" y="0" key="CommitChangelistDialog2" timestamp="1588612723913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="320" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588612723913" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588712125682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588712125682" />
+    <state width="1345" height="-12" key="GridCell.Tab.0.bottom" timestamp="1588712130602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="-12" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588712130602" />
+    <state width="1345" height="-12" key="GridCell.Tab.0.center" timestamp="1588712130602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="-12" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588712130602" />
+    <state width="1345" height="-12" key="GridCell.Tab.0.left" timestamp="1588712130602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="-12" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588712130602" />
+    <state width="1345" height="-12" key="GridCell.Tab.0.right" timestamp="1588712130602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="-12" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588712130602" />
+    <state width="1345" height="201" key="GridCell.Tab.1.bottom" timestamp="1588472817220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="201" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588472817220" />
+    <state width="1345" height="201" key="GridCell.Tab.1.center" timestamp="1588472817220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="201" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588472817220" />
+    <state width="1345" height="201" key="GridCell.Tab.1.left" timestamp="1588472817220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="201" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588472817220" />
+    <state width="1345" height="201" key="GridCell.Tab.1.right" timestamp="1588472817220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588472817220" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1588203761967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588203761967" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1588612734469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588612734469" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588711793551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588711793551" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588470296552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588470296552" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../FarzadRA3/FarzadRA3Q5/FarzadRA3Q5.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
